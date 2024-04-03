@@ -1,19 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <save>
-    <version major="4" minor="0" revision="7" build="406" />
+    <version major="4" minor="0" revision="10" build="425" />
     <region id="ClassDescriptions">
         <node id="root">
             <children>
                 <node id="ClassDescription"> Speed Force Patron for Warlock
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+copied from Warlock
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Warlock"/>
+copied from Warlock
                     <attribute id="DisplayName" type="TranslatedString" handle="hce6e2b04g4030g4bc2gbb59g3ca75e2dc6bf" version="1" />
+copied from localization
                     <attribute id="Description" type="TranslatedString" handle="h4cf6a13dg81b3g4a4cga9b8ga4f3974815ce" version="1" />
+copied from localization
                     <attribute id="LearningStrategy" type="uint8" value="1" />
+copied from Warlock
                     <attribute id="MustPrepareSpells" type="bool" value="false"/>
+copied from Warlock
                     <attribute id="Name" type="FixedString" value="SpeedForcePatron" />
+ Subclass name
                     <attribute id="ParentGuid" type="guid" value="b4225a4b-4bbe-4d97-9e3c-4719dbd1487c" />
+copied from Warlock
                     <attribute id="PrimaryAbility" type="uint8" value="6"/>
+ copied from Warlock
                     <attribute id="ProgressionTableUUID" type="guid" value="2adf8a72-6d0d-40ea-a455-348665fa55b3" />
                     <attribute id="SoundClassType" type="FixedString" value="Warlock" />
                     <attribute id="SpellCastingAbility" type="uint8" value="6" />
