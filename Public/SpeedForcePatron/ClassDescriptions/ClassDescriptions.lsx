@@ -10,13 +10,14 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="hce6e2b04g4030g4bc2gbb59g3ca75e2dc6bf" version="1" />
                     <attribute id="Description" type="TranslatedString" handle="h4cf6a13dg81b3g4a4cga9b8ga4f3974815ce" version="1" />
                     <attribute id="LearningStrategy" type="uint8" value="1" />
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
                     <attribute id="Name" type="FixedString" value="SpeedForcePatron" />
                     <attribute id="ParentGuid" type="guid" value="b4225a4b-4bbe-4d97-9e3c-4719dbd1487c" />
                     <attribute id="PrimaryAbility" type="uint8" value="6"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="2adf8a72-6d0d-40ea-a455-348665fa55b3" />
                     <attribute id="SoundClassType" type="FixedString" value="Warlock" />
                     <attribute id="SpellCastingAbility" type="uint8" value="6" />
-                    <attribute id="UUID" type="guid" value="3081d0f1-32ea-4c33-9350-f423ececc9b8" />
+                    <attribute id="UUID" type="guid" value="26c7f548-a9a7-40fe-8cc4-decc36faaf6c" />
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="cdad1fc1-352b-4441-82f2-73d8433e42ea"/>

@@ -7,9 +7,9 @@
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="hce6e2b04g4030g4bc2gbb59g3ca75e2dc6bf" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4cf6a13dg81b3g4a4cga9b8ga4f3974815ce" version="1"/>
-                    <attribute id="ProgressionTableId" type="guid" value="7e286cc0-c44e-4fce-a65d-fa94cb52222b"/>
+                    <attribute id="ProgressionTableId" type="guid" value="2adf8a72-6d0d-40ea-a455-348665fa55b3"/>
                     <attribute id="Type" type="FixedString" value="SpeedForcePatron"/>
-                    <attribute id="UUID" type="guid" value="a3a96181-4711-4f76-b98e-4a54308f39bf"/>
+                    <attribute id="UUID" type="guid" value="b64be620-624b-40ce-9da4-58a165e13d7a"/>
                 </node>
             </children>
         </node>
