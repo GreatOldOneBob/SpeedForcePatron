@@ -250,7 +250,7 @@
                                     <attribute id="Object" type="guid" value="733ddf8c-9ec4-4c5a-85e3-c70fd3df3c24" />
                                 </node>
                                 <node id="SubClass">
-                                    <attribute id="Object" type="guid" value="26c7f548-a9a7-40fe-8cc4-decc36faaf6c2" />
+                                    <attribute id="Object" type="guid" value="26c7f548-a9a7-40fe-8cc4-decc36faaf6c" />
  Subclass UUID
                                 </node>
                             </children>
