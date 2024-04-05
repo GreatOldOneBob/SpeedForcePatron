@@ -8,12 +8,12 @@
                 {
                     "UUID": "2adf8a72-6d0d-40ea-a455-348665fa55b3",
                     "modGuid": "9b150d4f-ba25-4793-8bf5-773846f4289f",
-                    "Comment": "The Undead"
+                    "Comment": "The Speed Force"
                 }
             ],
             "Strings": [
                 {
-                    "modGuid": "95ba3595-2004-4f3c-96b0-4ab671fa1e23",
+                    "modGuid": "9b150d4f-ba25-4793-8bf5-773846f4289f",
                     "Action": "Insert",
                     "Type": "PassivesAdded",
                     "Strings": [
@@ -27,7 +27,7 @@
             "UUID": "20015e25-8aa9-41bf-b959-aa587ba0aa27",
             "Strings": [
                 {
-                    "modGuid": "95ba3595-2004-4f3c-96b0-4ab671fa1e23",
+                    "modGuid": "9b150d4f-ba25-4793-8bf5-773846f4289f",
                     "Action": "Insert",
                     "Type": "PassivesAdded",
                     "Strings": [
