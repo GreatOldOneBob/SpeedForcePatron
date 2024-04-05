@@ -2,11 +2,37 @@
     "FileVersion": 1,
     "Progressions": [
         {
-            "UUID": "a7a958f1-d858-4021-9fa7-cf87e7d71377",
+            "Comment": "Warlock Level 1",
+            "UUID": "a7767dc5-e6ab-4e05-96fd-f0424256121c",
             "Subclasses": [
                 {
-                    "UUID": "26c7f548-a9a7-40fe-8cc4-decc36faaf6c",
-                    "modGuid": "9b150d4f-ba25-4793-8bf5-773846f4289f"
+                    "UUID": "2adf8a72-6d0d-40ea-a455-348665fa55b3",
+                    "modGuid": "9b150d4f-ba25-4793-8bf5-773846f4289f",
+                    "Comment": "The Undead"
+                }
+            ],
+            "Strings": [
+                {
+                    "modGuid": "95ba3595-2004-4f3c-96b0-4ab671fa1e23",
+                    "Action": "Insert",
+                    "Type": "PassivesAdded",
+                    "Strings": [
+                        "UnlockedWarlockSpellSlotLevel1"
+                    ]
+                }
+            ]
+        },
+        {
+            "Comment": "Warlock Level 1 Multiclass Entry",
+            "UUID": "20015e25-8aa9-41bf-b959-aa587ba0aa27",
+            "Strings": [
+                {
+                    "modGuid": "95ba3595-2004-4f3c-96b0-4ab671fa1e23",
+                    "Action": "Insert",
+                    "Type": "PassivesAdded",
+                    "Strings": [
+                        "UnlockedWarlockSpellSlotLevel1"
+                    ]
                 }
             ]
         }
