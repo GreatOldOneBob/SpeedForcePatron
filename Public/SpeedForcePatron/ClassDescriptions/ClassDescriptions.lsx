@@ -4,7 +4,7 @@
     <region id="ClassDescriptions">
         <node id="root">
             <children>
-                <node id="ClassDescription"> Speed Force Patron for Warlock
+                <node id="ClassDescription">
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hce6e2b04g4030g4bc2gbb59g3ca75e2dc6bf" version="1" />
                     <attribute id="Description" type="TranslatedString" handle="h4cf6a13dg81b3g4a4cga9b8ga4f3974815ce" version="1" />
@@ -16,7 +16,7 @@
                     <attribute id="ProgressionTableUUID" type="guid" value="2adf8a72-6d0d-40ea-a455-348665fa55b3" />
                     <attribute id="SoundClassType" type="FixedString" value="Warlock" />
                     <attribute id="SpellCastingAbility" type="uint8" value="6" />
-                    <attribute id="SpellList" type="guid" value="9eea41f9-ef56-4022-9dae-10328fc19753"/>
+                    <attribute id="SpellList" type="guid" value="f8d46828-1778-4dd4-bcb7-55968c16caf9"/>
                     <attribute id="UUID" type="guid" value="26c7f548-a9a7-40fe-8cc4-decc36faaf6c" />
                     <children>
                         <node id="Tags">
